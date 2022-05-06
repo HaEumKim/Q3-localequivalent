@@ -9,7 +9,7 @@ follow the below instrument step by step :
 3. Open the link and click "Applications"
 4. Paste "LocalCliffordEquivalent.wl"
 ## Guide
-Open "LocalCliffordEquivalentGuide.nb" to get detailed technical information about the application. It will give you users' guides and tutorials.
+Open "LocalCliffordEquivalentGuide.nb" to get detailed technical information about the application. It will give you guides and tutorials.
 ## Reference
 This code is based on the below papers :
 1. Van den Nest, M., Dehaene, J., & De Moor, B. (2004). Efficient algorithm to recognize the local Clifford equivalence of graph states. Physical Review A, 70(3), 034302.
