@@ -1,7 +1,7 @@
 # Q3-LocalCliffordEquivalent
 LocalCliffordEquivalent is a Wolfram Mathematica application to help study local Clifford equivalent for stabilizer states. Stabilizer state is a state that can be uniquely defined with stabilizer subgorup of the Pauli group that stabilizes the state.
 ## Requirement
-LocalCliffordEquivalent requires Mathematica v13.0 or later and Q3.
+LocalCliffordEquivalent requires Mathematica v13.0 or later and [Q3](https://github.com/quantum-mob/Q3).
 ## Installation
 follow the below instrument step by step :
 1. Install Q3 by following [Installation Guide](https://github.com/quantum-mob/Q3/blob/main/INSTALL.md) of [Q3](https://github.com/quantum-mob/Q3).
