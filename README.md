@@ -6,8 +6,8 @@ LocalCliffordEquivalent requires Mathematica v13.0 or later and [Q3](https://git
 follow the below instrument step by step :
 1. Install Q3 by following [Installation Guide](https://github.com/quantum-mob/Q3/blob/main/INSTALL.md) of [Q3](https://github.com/quantum-mob/Q3).
 2. Launch Mathematica and activate "$UserBaseDirectory" and copy the link.
-3. Open the link and click "Applications"
-4. Paste "LocalCliffordEquivalent.wl"
+3. Open the link and click "Applications".
+4. Paste "LocalCliffordEquivalent.wl" there.
 ## Guide
 Open "LocalCliffordEquivalentGuide.nb" to get detailed technical information about the application. It will give you guides and tutorials.
 ## Reference
