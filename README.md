@@ -14,5 +14,7 @@ Open "LocalCliffordEquivalentGuide.nb" to get detailed technical information abo
 This code is based on the below papers :
 1. Van den Nest, M., Dehaene, J., & De Moor, B. (2004). Efficient algorithm to recognize the local Clifford equivalence of graph states. Physical Review A, 70(3), 034302.
 2. Van den Nest, M., Dehaene, J., & De Moor, B. (2004). Graphical description of the action of local Clifford transformations on graph states. Physical Review A, 69(2), 022316.
+## Thanks for
+Thanks to Mahn-Soo Choi about theorical and technical advise, and Seung Park about studying together.
 ## Feedback
 Any comment, suggestion, or bug report will be appreciated. Please address it to: hekim007@hanmail.net.
